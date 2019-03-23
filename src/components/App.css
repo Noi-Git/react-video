@@ -1,0 +1,20 @@
+.welcome {
+  text-align: center;
+  color: #016C9B;
+}
+.welcome-head {
+  padding-top: 25px;
+}
+
+.welcome-text {
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+
+.welcome-footer {
+  font-size: 14px;
+  margin-top: 20px;
+  padding: 15px 20px;
+  color: #D8E3F2;
+  background-color: #016C9B;
+}
